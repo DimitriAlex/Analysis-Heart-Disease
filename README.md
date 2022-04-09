@@ -1,2 +1,3 @@
 # Analysis-Heart-Disease
-test dlu nanti di ganti ya kan
+
+Analisis ini bertujuan untuk menyelesaikan projek akhir oleh KODE by Hactiv8 
